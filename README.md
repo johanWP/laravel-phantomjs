@@ -5,13 +5,13 @@
 [![Discord](https://discordapp.com/api/guilds/415566764697583628/embed.png)](https://discord.gg/bHR599t)
 [![License](https://poser.pugx.org/josh/laravel-phantomjs/license)](https://packagist.org/packages/josh/laravel-phantomjs)
 
-# Laravel PhantomJs Client
+# Laravel PhantomJs Client Fork
 Using php-phantomjs client in laravel 
 
 [php-phantomjs Documentation](http://jonnnnyw.github.io/php-phantomjs/)
 
 # Requirement
-* [laravel/framework ^6](https://github.com/laravel/laravel)
+* [laravel/framework ^7](https://github.com/laravel/laravel)
 * [jonnyw/php-phantomjs 4.*](https://github.com/jonnnnyw/php-phantomjs)
 
 ## Install
