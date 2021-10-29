@@ -1,5 +1,5 @@
 {
-  "name": "josh/laravel-phantomjs",
+  "name": "johanWP/laravel-phantomjs",
   "description": "Use phantom-js in laravel",
   "keywords": [
     "phantomjs-php",
@@ -9,13 +9,13 @@
   ],
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/MrJoshLab/laravel-phantomjs/issues",
-    "source": "https://github.com/MrJoshLab/laravel-phantomjs"
+    "issues": "https://github.com/johanWP/laravel-phantomjs/issues",
+    "source": "https://github.com/johanWP/laravel-phantomjs"
   },
   "authors": [
     {
-      "name": "Alireza Josheghani",
-      "email": "josheghani.dev@gmail.com"
+      "name": "Johan Marchan",
+      "email": "jmarchan@gmail.com"
     }
   ],
   "autoload": {
@@ -42,10 +42,10 @@
           "dev-develop": "^1.0"
         },
         "providers": [    
-          "Josh\\Component\\PhantomJs\\PhantomJsServiceProvider"
+          "johanWP\\Component\\PhantomJs\\PhantomJsServiceProvider"
         ],
         "aliases": {
-            "PhantomJs": "Josh\\Component\\PhantomJs\\Facade\\PhantomJs"
+            "PhantomJs": "johanWP\\Component\\PhantomJs\\Facade\\PhantomJs"
         }
     }
   }
